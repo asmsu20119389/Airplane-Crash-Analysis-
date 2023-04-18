@@ -7,4 +7,4 @@ Tableau public Dashboard link-  https://public.tableau.com/views/tableauinsqlser
 Tableau public story link-  https://public.tableau.com/views/tableauinsqlserverbook1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-Documentation video link-  https://drive.google.com/file/d/16UxZlkVgvgxud0NFJyd5c3PNYo3ghpTB/view?usp=share_link
+Documentation video link-  https://drive.google.com/file/d/1bC99YaDEBgQYrxnat6lorvrP9lAlKb0Z/view?usp=share_link
